@@ -1,5 +1,5 @@
 const fs = require("fs");
-//! Non-blocking I/O model.
+//? Non-blocking I/O model.
 // fs.writeFile("file.txt", "I made new File", () => {
 //   console.log("data is successfuly added in file.txt");
 // });
